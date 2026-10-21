@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DIPTI Medical</string>
+    <string name="start_url">https://dipti-medical-app.vercel.app/</string>
+    <string name="exit_hint">Press back again to exit</string>
+</resources>

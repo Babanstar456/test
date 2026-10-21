@@ -1,0 +1,10 @@
+.gradle/
+build/
+app/build/
+local.properties
+.idea/
+*.iml
+# keep signing secrets out of git
+*.jks
+keystore.properties
+SIGNING_SECRETS.txt
